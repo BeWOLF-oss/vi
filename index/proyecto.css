@@ -1,0 +1,82 @@
+body{
+
+    background-color: #92ccb452;
+}
+scrip{
+    
+    color: rgb(30, 187, 30);
+    font-size: 28px;
+    }
+.degradado {
+    background: linear-gradient(#c4e7e115, #a3b5f113)
+  }
+.ti{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:#000000;
+}
+
+.container,icon  {
+    display: flex;
+    justify-content: space-between; 
+  }
+ 
+
+  .contenedor1, .contenedor2 {
+  
+    width: 360px;
+    height: 480px;
+    background: linear-gradient(to right, #86d4f381, #c1dfe971);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 8px #6e726fd8;
+    margin: 5px; /* Añadimos un margen de 10 píxeles a cada contenedor */
+  }
+  p{
+    text-justify: auto;
+    size: 24px;
+    color: #363535f8;
+  }
+  img{
+margin-top: 200px;
+    width:410px;
+    size: 410px;
+  }
+  a{
+    color: limegreen;
+  }
+  
+  .hp{
+    
+    text-align: right ;
+    margin-left: 30px;
+    margin-top: 30px;
+
+  }
+  .b{
+  
+    text-align: right ;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  i{
+    color: limegreen;
+  }
+  .cro{
+    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  
+
+  }
+ .duki{
+    position: relative;
+  width: 700px;
+ }
+ 
+
+
